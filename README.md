@@ -2,7 +2,7 @@
 - 👀 I’m interested in web application development
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me shubhamsonawane47@gmail.com
+- 📫 How to reach me srsonawane005@gmail.com
 
 <!---
 Shubham1966/Shubham1966 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
